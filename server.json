@@ -3,7 +3,7 @@
   "name": "io.github.smrht/samdesk-support",
   "title": "SamDesk Support",
   "description": "Read your SamDesk support inbox, find customer agreements and draft replies. Read-only.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "websiteUrl": "https://samdesk.nl/support/plugin/",
   "repository": {
     "url": "https://github.com/smrht/samdesk-support-mcp",
