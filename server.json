@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.smrht/samdesk-support",
+  "title": "SamDesk Support",
+  "description": "Read your SamDesk support inbox, find customer agreements and draft replies. Read-only.",
+  "version": "1.1.0",
+  "websiteUrl": "https://samdesk.nl/support/plugin/",
+  "repository": {
+    "url": "https://github.com/smrht/samdesk-support-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/smrht/samdesk-support-mcp/main/logo-400.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "400x400"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://samdesk.nl/support/mcp"
+    }
+  ]
+}
